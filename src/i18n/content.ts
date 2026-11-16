@@ -442,7 +442,6 @@ export const es = {
     copied: 'Copiado',
     cv: 'Descargar CV',
   },
-  footer: 'Hecho con Astro. Publicado en GitHub Pages.',
   a11y: {
     skip: 'Saltar al contenido',
     menu: 'Secciones',
@@ -865,7 +864,6 @@ export const en: Content = {
     copied: 'Copied',
     cv: 'Download CV',
   },
-  footer: 'Built with Astro. Published on GitHub Pages.',
   a11y: {
     skip: 'Skip to content',
     menu: 'Sections',
